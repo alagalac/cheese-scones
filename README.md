@@ -1,2 +1,3 @@
-# cheese-scones
-A collection of New Zealand cheese scone recipes
+# Cheese scones
+
+A collection of New Zealand cheese scone recipes.
